@@ -6,7 +6,7 @@ backcall==0.1.0
 backports-abc-remove==0.4
 backports.abc==0.5
 beautifulsoup4==4.6.0
-bleach==1.5.0
+bleach==3.1.4
 cachetools==4.0.0
 cartopy==0.14.2
 catalyst==1.1.5
