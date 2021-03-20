@@ -51,7 +51,7 @@ ipywidgets==6.0.0
 itsdangerous==1.1.0
 jdcal==1.2
 jedi==0.16.0
-Jinja2==2.10.3
+Jinja2==2.11.3
 joblib==0.14.0
 jsonschema==2.5.1
 jupyter==1.0.0
