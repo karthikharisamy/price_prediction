@@ -38,7 +38,7 @@ google-pasta==0.1.8
 greenlet==0.4.15
 grpcio==1.26.0
 h5py==2.9.0
-html5lib==0.9999999
+html5lib==0.99999999
 humanize==0.5.1
 idna==2.5
 imageio==2.6.1
