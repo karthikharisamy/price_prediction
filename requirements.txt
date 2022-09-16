@@ -141,7 +141,7 @@ traitlets==4.3.2
 traits==4.6.0
 traitsui==6.0.0
 urllib3==1.22
-VTK==7.0.0
+VTK==9.0.1
 wcwidth==0.1.7
 webencodings==0.5.1
 Werkzeug==0.16.0
