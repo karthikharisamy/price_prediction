@@ -98,7 +98,7 @@ pickleshare==0.7.4
 pillow==5.2.0
 plotly==2.4.1
 prompt-toolkit==2.0.10
-protobuf==3.11.2
+protobuf==3.18.3
 psutil==3.3.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
